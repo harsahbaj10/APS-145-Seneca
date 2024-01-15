@@ -2,11 +2,7 @@ Pseudocode Group 2
 
 Group Members   
 
-1 Daniel Emmanuel 
 
-2 Harsahbaj Singh 
-
-3 Sikder Joy 
 
 Variables 
 
