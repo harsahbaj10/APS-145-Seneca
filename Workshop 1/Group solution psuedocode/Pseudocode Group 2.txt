@@ -1,0 +1,65 @@
+Pseudocode Group 2 
+
+Group Members   
+
+1 Daniel Emmanuel 
+
+2 Harsahbaj Singh 
+
+3 Sikder Joy 
+
+Variables 
+
+1.Student 1 = A 
+
+2.Student 2 = B  
+
+3.Number of baskets by A = x 
+
+4.Number of baskets by B = y 
+
+5.Prize money = w 
+
+6.Number of ties = T 
+
+ 
+
+Start  
+
+1.A and B challenge each other to the shoot-out. 
+
+2.A simulated die is rolled once by A and B each. 
+
+3.Die rolling (outcome). 
+
+a) If A>B then A goes to Step.4. 
+
+b) If B>A then B goes to Step.4. 
+
+c) If A=B then repeat Step.2 until a winner is declared. 
+
+4. The winner of Step.3 throws the ball 4 times. 
+
+5. The second player throws the ball 4 times. 
+
+6. Scenario i) ii) iii) 
+
+i) x>y = A wins. (Go to Step.7) 
+
+ii) y>x = B wins. (Go to Step.7) 
+
+iii) x=y = tie (T) (Repeat step.4) 
+
+7.  Determine prize money  
+
+a) If Scenario i) x-y = w  
+
+b) If Scenario ii) y-x = w 
+
+c) if Scenario iii) T * 0.5 and then w - 
+
+8. Gives prize money  
+
+A) If scenario i) happens B gives money to A. 
+
+B) If scenario ii) happens A gives money to B. 
